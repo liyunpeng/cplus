@@ -1,0 +1,3 @@
+不能用gcc编译cpp文件
+
+$ g++ namespace.cpp -o a

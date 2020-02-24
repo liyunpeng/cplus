@@ -1,0 +1,15 @@
+*.exe
+pkg
+src/github.com
+src/golang.org
+.idea
+src/gopkg.in
+*~
+src/moul.io/
+src/go.etcd.io
+vendor
+
+a.txt
+debug1.txt
+debug2.txt
+debuglog.txt
